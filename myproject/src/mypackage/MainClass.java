@@ -9,7 +9,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		Student student=new Student();
 		student.displaydata();
-
+		System.out.println("sgsgc");
 	}
 
 }
